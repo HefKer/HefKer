@@ -5,6 +5,7 @@
 ## Projects
 Currently building an API and clients to make searching for classes @ HCC easier — repo coming soon. Other public work:
 
+- **[portfolio](https://github.com/HefKer/portfolio)**: My personal site, live at **[hefker.dev](https://hefker.dev)** — a static [Astro](https://astro.build) + Tailwind + daisyUI build deployed on Cloudflare Pages.
 - **[nixos-config](https://github.com/HefKer/nixos-config)**: My system config built on [NixOS](https://nixos.org/), a Linux distro focused on reproducibility. Ports every program and setting to a new machine in minutes.
 - **[dots](https://github.com/HefKer/dots)**: Dotfiles — settings for the programs I live in: editor, browser, terminal, and shell.
 
@@ -25,6 +26,7 @@ Currently building an API and clients to make searching for classes @ HCC easier
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org)
 
-**Tooling**  
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HefKer)
+**Browsers**  
+[![qutebrowser](https://img.shields.io/badge/qutebrowser-2E7D32?style=flat-square&logo=qutebrowser&logoColor=white)](https://qutebrowser.org)
+[![Helium](https://img.shields.io/badge/Helium-4B6BFB?style=flat-square)](https://helium.computer)
+[![Zen](https://img.shields.io/badge/Zen%20Browser-F76F53?style=flat-square&logo=zenbrowser&logoColor=white)](https://zen-browser.app)
