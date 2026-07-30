@@ -20,11 +20,14 @@ Currently building an API and clients to make searching for classes @ HCC easier
 [![Fish](https://img.shields.io/badge/fish-4AAE47?style=flat-square&logo=fishshell&logoColor=white)](https://fishshell.com)
 [![WezTerm](https://img.shields.io/badge/WezTerm-4E49EE?style=flat-square&logo=wezterm&logoColor=white)](https://wezterm.org)
 [![Starship](https://img.shields.io/badge/Starship-DD0B78?style=flat-square&logo=starship&logoColor=white)](https://starship.rs)
-[![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)](https://github.com/tmux/tmux/wiki)
+[![herdr](https://img.shields.io/badge/herdr-1BB91F?style=flat-square)](https://github.com/ogulcancelik/herdr)
 
 **Languages**  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 **Browsers**  
 [![qutebrowser](https://img.shields.io/badge/qutebrowser-2E7D32?style=flat-square&logo=qutebrowser&logoColor=white)](https://qutebrowser.org)
